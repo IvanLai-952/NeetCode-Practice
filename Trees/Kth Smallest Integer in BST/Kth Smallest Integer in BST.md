@@ -1,6 +1,6 @@
 # [230. Kth Smallest Integer in BST - Medium](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 
-Given the `root` of a binary search tree, and an integer `k`, return the `k<sup>th</sup>` smallest value (1-indexed) of all the values of the nodes in the tree.
+Given the `root` of a binary search tree, and an integer `k`, return the k<sup>th</sup> smallest value (1-indexed) of all the values of the nodes in the tree.
 
 Example 1:
 
