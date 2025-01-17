@@ -6,6 +6,7 @@ Mainly practicing in C++
 List @ https://neetcode.io/ 
 
 ## Contents
+- [Arrays & Hashing](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Arrays%20%26%20Hashing)
 - [Two Pointers](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Two%20Pointers/)
 - [Trees](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Trees/)
 - [Graphs](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Graphs/)
