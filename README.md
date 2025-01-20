@@ -56,5 +56,5 @@ Each solution is provided in a separate file with a `.cpp` extension. Open the f
 Contributions are welcome! If you have alternative solutions, optimizations, or corrections, feel free to fork the repository and submit a pull request. Please ensure your contributions align with the existing coding style and include necessary explanations.
 
 ## Resources
-[NeetCode](https://neetcode.io/practice?tab=neetcode150): The official NeetCode 150 problem list.
+[NeetCode](https://neetcode.io/practice?tab=neetcode150): The official NeetCode 150 problem list.  
 [LeetCode](https://leetcode.com/problemset/): Platform to practice coding problems.
