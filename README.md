@@ -11,6 +11,7 @@ List @ https://neetcode.io/
 - [Linked List](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Linked%20List/)
 - [Trees](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Trees/)
 - [Graphs](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Graphs/)
+- [1-D Dynamic Programming](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/1-D%20Dynamic%20Programming)
 - [Greedy](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Greedy/)
 - [Intervals](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Intervals/)
 - [Bit Manipulation](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Bit%20Manipulation/)
