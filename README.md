@@ -8,6 +8,9 @@ This repository contains my solutions to the [NeetCode 150](https://neetcode.io/
 - [Problem Categories](#problem-categories)
 - [Solutions](#solutions)
 - [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [Resources](#resources)
+
 
 
 ## Introduction
@@ -36,6 +39,22 @@ Each category contains a directory with solutions to the respective problems. Th
 ## How to Use
 
 1. Clone the Repository:
-```console
+```bash
 git clone https://github.com/IvanLai-952/NeetCode-Practice.git
 ```
+
+2. Navigate to a Category:
+```bash
+cd NeetCode-Practice/Arrays\ &\ Hashing
+```
+
+3. Review the Solutions:
+
+Each solution is provided in a separate file with a `.cpp` extension. Open the file to view the code and explanations.
+
+## Contributing
+Contributions are welcome! If you have alternative solutions, optimizations, or corrections, feel free to fork the repository and submit a pull request. Please ensure your contributions align with the existing coding style and include necessary explanations.
+
+## Resources
+[NeetCode](https://neetcode.io/practice?tab=neetcode150): The official NeetCode 150 problem list.
+[LeetCode](https://leetcode.com/problemset/): Platform to practice coding problems.
