@@ -19,6 +19,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) is a collection
 ## Problem Categories
 - [Arrays & Hashing](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Arrays%20%26%20Hashing)
 - [Two Pointers](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Two%20Pointers/)
+- [Sliding Window](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Sliding%20Window/)
 - [Linked List](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Linked%20List/)
 - [Trees](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Trees/)
 - [Graphs](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Graphs/)
