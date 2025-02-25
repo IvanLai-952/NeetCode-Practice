@@ -22,6 +22,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) is a collection
 - [Sliding Window](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Sliding%20Window/)
 - [Linked List](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Linked%20List/)
 - [Trees](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Trees/)
+- [Heap / Priority Queue](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Heap_Priority%20Queue)
 - [Graphs](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Graphs/)
 - [1-D Dynamic Programming](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/1-D%20Dynamic%20Programming)
 - [Greedy](https://github.com/IvanLai-952/NeetCode-Practice/tree/main/Greedy/)
